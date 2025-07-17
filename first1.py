@@ -5,6 +5,7 @@ import pandas as pd
 # CSV 파일 업로드
 st.title("2025년 5월 기준 연령별 인구 현황")
 
+
 #uploaded_file = st.file_uploader("CSV 파일을 업로드하세요 (EUC-KR 인코딩)", type="csv")
 
 if True:
